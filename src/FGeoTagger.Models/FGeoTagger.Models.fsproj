@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="GeoType.fs" />
+    <Compile Include="GeoObject.fs" />
+    <Compile Include="GeoCoord.fs" />
+    <Compile Include="Address.fs" />
+    <Compile Include="Tag.fs" />
+    <Compile Include="Cities.fs" />
+    <Compile Include="Streets.fs" />
+    <Compile Include="Houses.fs" />
+    <Compile Include="Blocks.fs" />
+    <Compile Include="Rooms.fs" />
+  </ItemGroup>
+</Project>
