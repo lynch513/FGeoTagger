@@ -6,5 +6,5 @@ module GeoObject =
     type GeoObject = {
         Type: GeoType;
         Name: string;
-        Prefix: bool
-    }
+        Prefix: bool option;
+        } 

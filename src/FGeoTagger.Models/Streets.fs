@@ -7,4 +7,4 @@ module Streets =
     type Streets = {
         Id: Guid;
         Street: GeoObject;
-    }
+        }

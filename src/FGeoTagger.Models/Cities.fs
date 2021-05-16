@@ -8,4 +8,4 @@ module Cities =
         Id: Guid;
         City: GeoObject;
         Default: bool
-    }
+        }

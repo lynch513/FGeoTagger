@@ -8,4 +8,4 @@ module Blocks =
         Id: Guid;
         Block: GeoType;
         Default: bool
-    }
+        }

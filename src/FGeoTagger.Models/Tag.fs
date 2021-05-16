@@ -11,7 +11,7 @@ module Tag =
         Subtitle: string option;
         Description: string option;
         Address: Address;
-        GeoCoord: GeoCoord;
+        Coord: GeoCoord;
         Created: DateTime;
         Updated: DateTime;
         }

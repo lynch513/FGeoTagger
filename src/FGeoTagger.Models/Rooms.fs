@@ -8,4 +8,4 @@ module Rooms =
         Id: Guid;
         Room: GeoType;
         Default: bool
-    }
+        }

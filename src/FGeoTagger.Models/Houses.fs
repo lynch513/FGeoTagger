@@ -8,4 +8,4 @@ module Houses =
         Id: Guid;
         House: GeoType;
         Default: bool
-    }
+        }
