@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="Rooms.fs" />
     <Compile Include="Library.fs" />
   </ItemGroup>
 
